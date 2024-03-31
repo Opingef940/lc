@@ -1,0 +1,166 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (12/11/2023 4:22:40 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Warning:   BepInEx] Skipping over type [SanityRewrittenMod.Utilities.GameEvents] as no metadata attribute is specified
+[Warning:   BepInEx] Skipping over type [SanityRewrittenMod.Patches.ItemPatcher] as no metadata attribute is specified
+[Warning:   BepInEx] Skipping over type [SanityRewrittenMod.Patches.PlayerPatcher] as no metadata attribute is specified
+[Info   :   BepInEx] 4 plugins to load
+[Info   :   BepInEx] Loading [BiggerLobby 2.6.0]
+[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] Loading [Insanity Remastered 1.0.8]
+[Info   :   BepInEx] Loading [Lethal Company API 3.2.3]
+[Warning:Lethal Company API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :Lethal Company API] LC_API Starting up..
+[Info   :   BepInEx] Loading [Skinwalker Mod 2.0.7]
+[Message:BudgetAirpods.InsanityRemastered] Skinwalker mod installed, starting integration.
+[Message:BudgetAirpods.InsanityRemastered] Skinwalker mod installed, starting integration.
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 2.0.7
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_OtherEnemies VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Message:   BepInEx] Chainloader startup complete
+[Message:Lethal Company API] A plugin has set your game to only allow you to play with other people who have mods!
+[Info   :Lethal Company API] LC_API Started!
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Message:Lethal Company API] server pre-setup success
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Warning:Lethal Company API] Asking all other players for their mod list..
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/oping/Desktop/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
